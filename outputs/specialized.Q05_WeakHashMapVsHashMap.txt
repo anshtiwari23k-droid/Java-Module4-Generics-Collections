@@ -1,0 +1,4 @@
+Before GC -> HashMap size = 1, WeakHashMap size = 1
+After GC  -> HashMap size = 1, WeakHashMap size = 0
+HashMap holds a strong reference to its key, so the entry survives.
+WeakHashMap holds keys weakly, so the entry was removed once the key was garbage-collected.

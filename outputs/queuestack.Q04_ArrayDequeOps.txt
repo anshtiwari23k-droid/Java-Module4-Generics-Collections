@@ -1,0 +1,7 @@
+(a) After adding at both ends : [Start, A, B, C, D]
+(c) peekFirst() = Start, peekLast() = D
+(b) removeFirst() = Start -> [A, B, C, D]
+    removeLast()  = D -> [A, B, C]
+    pollFirst()   = A -> [B, C]
+    pollLast()    = C -> [B]
+(c) peekFirst() = B, peekLast() = B

@@ -1,0 +1,3 @@
+(a) Simple for loop      : 5 10 15 20 25 
+(b) Enhanced for loop    : 5 10 15 20 25 
+(c) While loop + Iterator: 5 10 15 20 25 

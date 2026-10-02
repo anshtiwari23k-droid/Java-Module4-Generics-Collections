@@ -1,0 +1,13 @@
+(a) Employees: {101=Ansh Tiwari, 102=Riya Sharma, 103=Karan Mehta, 104=Neha Gupta}
+(b) containsKey(102)? true
+    containsKey(110)? false
+(c-i) Using keySet():
+    ID 101 -> Ansh Tiwari
+    ID 102 -> Riya Sharma
+    ID 103 -> Karan Mehta
+    ID 104 -> Neha Gupta
+(c-ii) Using entrySet():
+    ID 101 -> Ansh Tiwari
+    ID 102 -> Riya Sharma
+    ID 103 -> Karan Mehta
+    ID 104 -> Neha Gupta

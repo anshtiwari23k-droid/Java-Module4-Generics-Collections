@@ -1,0 +1,11 @@
+Products sorted by name:
+  ---------------------------
+  charger      Rs     899.00
+  Headphones   Rs    2499.00
+  Keyboard     Rs    1499.00
+  Laptop       Rs   65999.00
+  Monitor      Rs   12999.00
+  Mouse        Rs     599.00
+  ---------------------------
+  TOTAL        Rs   84494.00
+Products with names from C up to (not incl.) L: {charger=899.0, Headphones=2499.0, Keyboard=1499.0}

@@ -1,0 +1,3 @@
+Original map: {Neha=81, Karan=75, Riya=92, Arjun=64, Ansh=88}
+Sorted by value (ascending) : {Arjun=64, Karan=75, Neha=81, Ansh=88, Riya=92}
+Sorted by value (descending): {Riya=92, Ansh=88, Neha=81, Karan=75, Arjun=64}

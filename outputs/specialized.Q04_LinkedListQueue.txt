@@ -1,0 +1,9 @@
+After enqueue 10, 20, 30 : front -> [10, 20, 30] <- rear
+front()   = 10
+dequeue() = 10 -> front -> [20, 30] <- rear
+enqueue(40)              : front -> [20, 30, 40] <- rear
+size = 3, isEmpty = false
+dequeue() = 20
+dequeue() = 30
+dequeue() = 40
+isEmpty = true

@@ -1,0 +1,4 @@
+sumOf(List<Integer>) = 6.0
+sumOf(List<Double>)  = 4.0
+List<Number> after addNumbers  = [1, 2, 3]
+List<Object> after addNumbers  = [1, 2, 3, 4, 5]

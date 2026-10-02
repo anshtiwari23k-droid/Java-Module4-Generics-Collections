@@ -1,0 +1,3 @@
+4 threads each add 10000 elements. Expected size = 40000
+Vector size    = 40000  (correct - add() is synchronized)
+ArrayList size = 26991  (elements lost - NOT thread-safe)

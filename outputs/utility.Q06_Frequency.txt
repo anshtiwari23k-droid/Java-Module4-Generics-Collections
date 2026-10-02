@@ -1,0 +1,9 @@
+List: [Java, Python, C, Java, Python, Java, Go, C]
+  Java occurs 3 time(s)
+  Python occurs 2 time(s)
+  C occurs 2 time(s)
+  Go occurs 1 time(s)
+
+List: [1, 2, 2, 3, 3, 3, 4, 4, 4, 4]
+  frequency of 4 = 4
+  frequency of 9 = 0

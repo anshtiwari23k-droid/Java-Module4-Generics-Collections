@@ -1,0 +1,4 @@
+Original              : [Ansh(88), Riya(92), Karan(75), Neha(88), Arjun(64)]
+By marks (high->low)  : [Riya(92), Ansh(88), Neha(88), Karan(75), Arjun(64)]
+By name (A->Z)        : [Ansh(88), Arjun(64), Karan(75), Neha(88), Riya(92)]
+By marks desc, then name: [Riya(92), Ansh(88), Neha(88), Karan(75), Arjun(64)]

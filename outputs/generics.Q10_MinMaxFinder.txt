@@ -1,0 +1,5 @@
+Integers: [45, 12, 89, 3, 67, 36]
+Min = 3, Max = 89
+
+Strings: [Mango, Apple, Zebra, Banana, Kiwi]
+Min = Apple, Max = Zebra

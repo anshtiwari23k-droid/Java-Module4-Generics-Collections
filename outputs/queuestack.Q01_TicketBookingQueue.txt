@@ -1,0 +1,18 @@
+Ansh joined the queue. Queue: [Ansh]
+Riya joined the queue. Queue: [Ansh, Riya]
+Karan joined the queue. Queue: [Ansh, Riya, Karan]
+Neha joined the queue. Queue: [Ansh, Riya, Karan, Neha]
+Arjun joined the queue. Queue: [Ansh, Riya, Karan, Neha, Arjun]
+
+Counter opens. Tickets available: 3
+Next in line: Ansh
+  Ticket booked for Ansh. Tickets left: 2
+Next in line: Riya
+  Ticket booked for Riya. Tickets left: 1
+Next in line: Karan
+  Ticket booked for Karan. Tickets left: 0
+Next in line: Neha
+  Sorry Neha, tickets sold out!
+Next in line: Arjun
+  Sorry Arjun, tickets sold out!
+Queue empty: true

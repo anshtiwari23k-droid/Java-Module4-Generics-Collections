@@ -1,0 +1,7 @@
+Sorted list: [12, 23, 36, 45, 56, 78, 90]
+binarySearch(36) -> found at index 2
+binarySearch(90) -> found at index 6
+binarySearch(50) -> -5 (not found, would be inserted at index 4)
+
+Sorted names: [Ansh, Karan, Neha, Riya]
+binarySearch("Neha") -> index 2

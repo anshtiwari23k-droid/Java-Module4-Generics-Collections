@@ -1,0 +1,4 @@
+PQ1 (heap order): [10, 25, 70, 40]
+PQ2 (heap order): [5, 15, 90, 30, 55]
+Merged PQ (heap order): [5, 10, 15, 30, 25, 70, 90, 40, 55]
+Merged and sorted     : [5, 10, 15, 25, 30, 40, 55, 70, 90]

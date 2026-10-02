@@ -1,0 +1,31 @@
+===== STUDENT GRADE BOOK =====
+
+1. Add/Update grade  2. Remove student  3. Query grade  4. Show all  5. Exit
+Enter choice: Student name: Grade: Added Ansh -> A
+
+1. Add/Update grade  2. Remove student  3. Query grade  4. Show all  5. Exit
+Enter choice: Student name: Grade: Added Riya -> B+
+
+1. Add/Update grade  2. Remove student  3. Query grade  4. Show all  5. Exit
+Enter choice: Student name: Grade: Added Karan -> A+
+
+1. Add/Update grade  2. Remove student  3. Query grade  4. Show all  5. Exit
+Enter choice: All students (sorted by name): {Ansh=A, Karan=A+, Riya=B+}
+
+1. Add/Update grade  2. Remove student  3. Query grade  4. Show all  5. Exit
+Enter choice: Student name to query: Riya's grade: B+
+
+1. Add/Update grade  2. Remove student  3. Query grade  4. Show all  5. Exit
+Enter choice: Student name: Grade: Updated Riya: B+ -> A
+
+1. Add/Update grade  2. Remove student  3. Query grade  4. Show all  5. Exit
+Enter choice: Student name to remove: Removed Karan
+
+1. Add/Update grade  2. Remove student  3. Query grade  4. Show all  5. Exit
+Enter choice: Student name to query: Karan not found.
+
+1. Add/Update grade  2. Remove student  3. Query grade  4. Show all  5. Exit
+Enter choice: All students (sorted by name): {Ansh=A, Riya=A}
+
+1. Add/Update grade  2. Remove student  3. Query grade  4. Show all  5. Exit
+Enter choice: Goodbye!

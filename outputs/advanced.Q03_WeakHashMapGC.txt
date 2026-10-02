@@ -1,0 +1,4 @@
+Initially: {Key(riya)=session-data-R, Key(karan)=session-data-K, Key(ansh)=session-data-A}
+Set riya and karan references to null, calling System.gc() ...
+After GC : {Key(ansh)=session-data-A}
+Only Key(ansh) is left because it is still strongly referenced.

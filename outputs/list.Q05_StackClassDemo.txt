@@ -1,0 +1,5 @@
+Stack: [A, B, C] (top = C)
+stack instanceof List   : true
+List.get(0) (bottom)    : A
+search("A") (1 = top) : 3
+pop(): C -> [A, B]

@@ -1,0 +1,10 @@
+add(10) -> true  set = [10]
+add(20) -> true  set = [20, 10]
+add(10) -> false set = [20, 10]
+add(30) -> true  set = [20, 10, 30]
+add(20) -> false set = [20, 10, 30]
+add(40) -> true  set = [20, 40, 10, 30]
+add(10) -> false set = [20, 40, 10, 30]
+add(50) -> true  set = [50, 20, 40, 10, 30]
+
+Input had 8 values, HashSet kept 5 unique values.

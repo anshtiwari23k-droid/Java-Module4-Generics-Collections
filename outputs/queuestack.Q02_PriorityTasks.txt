@@ -1,0 +1,9 @@
+PriorityQueue (internal heap order): [Submit Java assignment(P1), Watch lecture(P3), Prepare for quiz(P2), Clean desk(P5), Update GitHub(P4)]
+Removed highest-priority task: Submit Java assignment(P1)
+Queue after removal: [Prepare for quiz(P2), Watch lecture(P3), Update GitHub(P4), Clean desk(P5)]
+
+Remaining tasks in priority order:
+  Prepare for quiz(P2)
+  Watch lecture(P3)
+  Update GitHub(P4)
+  Clean desk(P5)

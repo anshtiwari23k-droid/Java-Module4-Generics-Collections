@@ -1,0 +1,5 @@
+Student pair : (Ansh Tiwari, 36)
+Key = Ansh Tiwari, Value = 36
+After setValue(37): (Ansh Tiwari, 37)
+Marks pair   : (102, 92.5)
+Flag pair    : (isPassed, true)

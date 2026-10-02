@@ -1,0 +1,3 @@
+Insertion order : Zebra, Lion, Elephant, Tiger, Monkey, Deer
+HashMap         : {Zebra=1, Elephant=3, Monkey=5, Lion=2, Tiger=4, Deer=6}   <- order by hash buckets
+LinkedHashMap   : {Zebra=1, Lion=2, Elephant=3, Tiger=4, Monkey=5, Deer=6}   <- insertion order kept

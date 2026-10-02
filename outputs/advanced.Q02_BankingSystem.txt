@@ -1,0 +1,27 @@
+===== SIMPLE BANK =====
+
+1.Open 2.Deposit 3.Withdraw 4.Transfer 5.Balance 6.Show all 7.Exit
+Enter choice: Customer ID: Initial deposit: Account C101 opened with balance Rs 5000.00
+
+1.Open 2.Deposit 3.Withdraw 4.Transfer 5.Balance 6.Show all 7.Exit
+Enter choice: Customer ID: Initial deposit: Account C102 opened with balance Rs 2500.00
+
+1.Open 2.Deposit 3.Withdraw 4.Transfer 5.Balance 6.Show all 7.Exit
+Enter choice: Customer ID: Amount: Deposited Rs 1500.00. New balance of C101: Rs 6500.00
+
+1.Open 2.Deposit 3.Withdraw 4.Transfer 5.Balance 6.Show all 7.Exit
+Enter choice: Customer ID: Amount: Insufficient balance (Rs 2500.00).
+
+1.Open 2.Deposit 3.Withdraw 4.Transfer 5.Balance 6.Show all 7.Exit
+Enter choice: From ID: To ID: Amount: Transferred Rs 2000.00 from C101 to C102.
+
+1.Open 2.Deposit 3.Withdraw 4.Transfer 5.Balance 6.Show all 7.Exit
+Enter choice: Customer ID: Balance of C102: Rs 4500.00
+
+1.Open 2.Deposit 3.Withdraw 4.Transfer 5.Balance 6.Show all 7.Exit
+Enter choice: All accounts:
+  C101 -> Rs 4500.00
+  C102 -> Rs 4500.00
+
+1.Open 2.Deposit 3.Withdraw 4.Transfer 5.Balance 6.Show all 7.Exit
+Enter choice: Thank you for banking with us!

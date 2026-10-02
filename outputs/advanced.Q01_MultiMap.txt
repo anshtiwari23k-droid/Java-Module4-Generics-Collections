@@ -1,0 +1,7 @@
+MultiMap: {Riya=[Python, Data Science], Ansh=[Java, Machine Learning, DBMS]}
+get("Ansh") = [Java, Machine Learning, DBMS]
+get("Karan") = []
+Total values = 5
+After remove("Ansh", "DBMS"): {Riya=[Python, Data Science], Ansh=[Java, Machine Learning]}
+After removeAll("Riya")     : {Ansh=[Java, Machine Learning]}
+Numbers 1-10 grouped by (n % 3): {0=[3, 6, 9], 1=[1, 4, 7, 10], 2=[2, 5, 8]}

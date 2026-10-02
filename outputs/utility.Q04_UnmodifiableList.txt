@@ -1,0 +1,6 @@
+Unmodifiable list: [Mon, Tue, Wed]
+Reading works -> get(1) = Tue
+readOnly.add("Thu")    -> UnsupportedOperationException
+readOnly.set(0, "Sun") -> UnsupportedOperationException
+readOnly.remove(0)     -> UnsupportedOperationException
+After original.add("Thu"), view shows: [Mon, Tue, Wed, Thu]

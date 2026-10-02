@@ -1,0 +1,11 @@
+Operation (N = 50000)          ArrayList   LinkedList
+(a) Add at beginning              115 ms        8 ms
+(b) Remove 10000 from middle       23 ms      397 ms
+(c) Iterate (for-each)              4 ms        4 ms
+
+Observations:
+- Adding at the beginning: LinkedList is faster (O(1) link change vs O(n) shifting).
+- Removing from the middle: both must reach the middle; ArrayList's System.arraycopy
+  shift is usually faster than LinkedList's O(n) node traversal.
+- Iteration: both are O(n); ArrayList is usually a bit faster (contiguous memory, cache friendly).
+(Exact timings vary from machine to machine and run to run.)

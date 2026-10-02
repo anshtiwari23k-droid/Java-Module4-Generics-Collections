@@ -1,0 +1,7 @@
+"madam"                          -> Palindrome
+"racecar"                        -> Palindrome
+"Java"                           -> Not a palindrome
+"Never odd or even"              -> Palindrome
+"A man, a plan, a canal: Panama" -> Palindrome
+"12321"                          -> Palindrome
+"Ansh"                           -> Not a palindrome

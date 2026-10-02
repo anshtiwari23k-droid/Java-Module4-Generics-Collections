@@ -1,0 +1,5 @@
+(a) After adding           : [Apple, Banana, Cherry, Mango, Orange]
+(b) After remove("Banana") : [Apple, Cherry, Mango, Orange]
+    After remove(index 0)  : [Cherry, Mango, Orange]
+(c) After set(1, "Grapes") : [Cherry, Grapes, Orange]
+(d) Final list             : [Cherry, Grapes, Orange] (size 3)

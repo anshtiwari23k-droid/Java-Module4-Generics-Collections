@@ -1,0 +1,9 @@
+City population (millions), keys sorted A-Z:
+  Bengaluru = 14
+  Chennai = 12
+  Delhi = 33
+  Kolkata = 15
+  Mumbai = 21
+firstKey() = Bengaluru, lastKey() = Mumbai
+headMap("D") = {Bengaluru=14, Chennai=12}
+descendingMap() = {Mumbai=21, Kolkata=15, Delhi=33, Chennai=12, Bengaluru=14}

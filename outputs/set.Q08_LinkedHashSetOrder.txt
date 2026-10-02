@@ -1,0 +1,7 @@
+Insertion order : Banana Apple Mango Cherry Apple Kiwi 
+LinkedHashSet   : Banana Apple Mango Cherry Kiwi 
+HashSet         : Apple Kiwi Cherry Mango Banana 
+
+LinkedHashSet keeps a doubly-linked list through its entries, so iteration
+follows insertion order (duplicate "Apple" did not change its position).
+HashSet iterates in hash-bucket order, which is not predictable.

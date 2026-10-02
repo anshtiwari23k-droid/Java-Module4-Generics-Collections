@@ -1,0 +1,6 @@
+Integer array before: [10, 20, 30, 40, 50]
+Integer array after swap(0,4): [50, 20, 30, 40, 10]
+String array before: [Ansh, Rahul, Priya]
+String array after swap(0,2): [Priya, Rahul, Ansh]
+Character array before: [J, A, V, A]
+Character array after swap(1,2): [J, V, A, A]

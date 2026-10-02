@@ -1,0 +1,3 @@
+(a) TreeSet after adding : [7, 12, 36, 55, 64, 89]
+(b) Smallest = 7, Largest = 89
+(c) remove(36) -> true, TreeSet now: [7, 12, 55, 64, 89]

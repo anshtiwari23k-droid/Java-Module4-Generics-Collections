@@ -1,0 +1,31 @@
+===== TO-DO LIST =====
+
+1. Add task  2. Remove task  3. Display tasks  4. Exit
+Enter choice: Enter task: Added: "Complete Java Module 4 assignment"
+
+1. Add task  2. Remove task  3. Display tasks  4. Exit
+Enter choice: Enter task: Added: "Push code to GitHub"
+
+1. Add task  2. Remove task  3. Display tasks  4. Exit
+Enter choice: Enter task: Added: "Revise Collections for quiz"
+
+1. Add task  2. Remove task  3. Display tasks  4. Exit
+Enter choice: Your tasks:
+  1. Complete Java Module 4 assignment
+  2. Push code to GitHub
+  3. Revise Collections for quiz
+
+1. Add task  2. Remove task  3. Display tasks  4. Exit
+Enter choice: Your tasks:
+  1. Complete Java Module 4 assignment
+  2. Push code to GitHub
+  3. Revise Collections for quiz
+Enter task number to remove: Removed: "Push code to GitHub"
+
+1. Add task  2. Remove task  3. Display tasks  4. Exit
+Enter choice: Your tasks:
+  1. Complete Java Module 4 assignment
+  2. Revise Collections for quiz
+
+1. Add task  2. Remove task  3. Display tasks  4. Exit
+Enter choice: Goodbye!

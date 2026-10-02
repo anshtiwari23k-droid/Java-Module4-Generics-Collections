@@ -1,0 +1,9 @@
+  [Reader] read Task-1
+  [Writer] added Task-4
+  [Writer] added Task-5
+  [Reader] read Task-2
+  [Writer] added Task-6
+  [Reader] read Task-3
+Final CopyOnWriteArrayList: [Task-1, Task-2, Task-3, Task-4, Task-5, Task-6]
+After removing Task-2 during iteration: [Task-1, Task-3, Task-4, Task-5, Task-6]
+ArrayList modified during iteration -> ConcurrentModificationException

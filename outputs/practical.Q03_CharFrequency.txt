@@ -1,0 +1,3 @@
+String: "programming in java"
+HashMap: {p=1, a=3, r=2, v=1, g=2, i=2, j=1, m=2, n=2, o=1}
+Sorted by character (TreeMap): {a=3, g=2, i=2, j=1, m=2, n=2, o=1, p=1, r=2, v=1}

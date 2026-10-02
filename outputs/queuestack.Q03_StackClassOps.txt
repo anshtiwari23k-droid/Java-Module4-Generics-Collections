@@ -1,0 +1,12 @@
+Is empty at start? true
+push(10) -> [10]
+push(20) -> [10, 20]
+push(30) -> [10, 20, 30]
+push(40) -> [10, 20, 30, 40]
+push(50) -> [10, 20, 30, 40, 50]
+peek() = 50
+pop()  = 50 -> [10, 20, 30, 40]
+pop()  = 40 -> [10, 20, 30]
+peek() = 30
+Is empty? false, size = 3
+After popping all -> [], is empty? true

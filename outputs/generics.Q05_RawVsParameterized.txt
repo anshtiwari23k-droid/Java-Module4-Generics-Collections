@@ -1,0 +1,3 @@
+Raw element: Hello
+Runtime error with raw type -> ClassCastException
+Parameterized element: Hello

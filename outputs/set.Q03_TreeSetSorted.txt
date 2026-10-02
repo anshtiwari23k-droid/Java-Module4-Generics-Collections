@@ -1,0 +1,7 @@
+TreeSet of names (auto-sorted, no duplicates): [Ansh, Meera, Rahul, Zoya]
+TreeSet of marks: [45, 66, 78, 88, 92]
+first() = 45, last() = 92
+headSet(70)  (< 70)  = [45, 66]
+tailSet(70)  (>= 70) = [78, 88, 92]
+ceiling(80) = 88, floor(80) = 78
+descendingSet() = [92, 88, 78, 66, 45]

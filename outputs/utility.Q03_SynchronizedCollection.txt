@@ -1,0 +1,2 @@
+synchronizedList size after 3 threads x 5000 adds = 15000
+Sum computed inside synchronized(syncList) block = 37492500

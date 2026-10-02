@@ -1,0 +1,28 @@
+ArrayList: [Java, Data Structures, DBMS, Operating Systems, Machine Learning]
+Size: 5, element at index 2: DBMS
+Contains "DBMS"? true
+
+Iterating with for-each:
+  - Java
+  - Data Structures
+  - DBMS
+  - Operating Systems
+  - Machine Learning
+Iterating with Iterator:
+  * Java
+  * Data Structures
+  * DBMS
+  * Operating Systems
+  * Machine Learning
+Iterating backwards with ListIterator:
+  4 -> Machine Learning
+  3 -> Operating Systems
+  2 -> DBMS
+  1 -> Data Structures
+  0 -> Java
+Iterating with forEach + lambda:
+  > JAVA
+  > DATA STRUCTURES
+  > DBMS
+  > OPERATING SYSTEMS
+  > MACHINE LEARNING

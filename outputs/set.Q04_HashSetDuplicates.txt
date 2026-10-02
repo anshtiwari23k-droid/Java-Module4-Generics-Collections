@@ -1,0 +1,7 @@
+add("Java")   -> true
+add("Python") -> true
+add("Java")   -> false  (duplicate rejected)
+HashSet<String>: [Java, Python]
+
+Without equals()/hashCode(): size = 2 [36:Ansh, 36:Ansh]
+With equals()/hashCode()   : size = 1 [36:Ansh]

@@ -1,0 +1,36 @@
+Added "Effective Java" by Joshua Bloch
+Added "Clean Code" by Robert C. Martin
+Added "Head First Java" by Kathy Sierra
+Added "The Pragmatic Programmer" by Andrew Hunt
+Added "Java: The Complete Reference" by Herbert Schildt
+
+1. Search by title  2. Add book  3. List all  4. Exit
+Enter choice: Enter title: Found: "Clean Code" by Robert C. Martin
+
+1. Search by title  2. Add book  3. List all  4. Exit
+Enter choice: Enter title: Matches for "java":
+  "Java: The Complete Reference" by Herbert Schildt
+  "Effective Java" by Joshua Bloch
+  "Head First Java" by Kathy Sierra
+
+1. Search by title  2. Add book  3. List all  4. Exit
+Enter choice: Enter title: No book found with title "Design Patterns".
+
+1. Search by title  2. Add book  3. List all  4. Exit
+Enter choice: Title: Author: Added "Design Patterns" by Erich Gamma
+
+1. Search by title  2. Add book  3. List all  4. Exit
+Enter choice: Enter title: Matches for "design patterns":
+  "Design Patterns" by Erich Gamma
+
+1. Search by title  2. Add book  3. List all  4. Exit
+Enter choice: Catalog (6 books):
+  "Design Patterns" by Erich Gamma
+  "Clean Code" by Robert C. Martin
+  "The Pragmatic Programmer" by Andrew Hunt
+  "Java: The Complete Reference" by Herbert Schildt
+  "Effective Java" by Joshua Bloch
+  "Head First Java" by Kathy Sierra
+
+1. Search by title  2. Add book  3. List all  4. Exit
+Enter choice: Goodbye!

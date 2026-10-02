@@ -1,0 +1,12 @@
+Integer stack : [10, 20, 30] <- top
+peek() = 30
+pop()  = 30
+After pop     : [10, 20] <- top, size = 2
+
+String stack  : [Java, Python, C++] <- top
+pop()  = C++
+pop()  = Python
+peek() = Java
+pop()  = Java
+isEmpty() = true
+pop() on empty stack -> EmptyStackException

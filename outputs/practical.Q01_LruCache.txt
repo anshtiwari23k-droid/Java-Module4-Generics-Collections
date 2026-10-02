@@ -1,0 +1,9 @@
+Cache (capacity 3): {1=One, 2=Two, 3=Three}
+get(1) = One  -> 1 becomes most recently used
+Cache: {2=Two, 3=Three, 1=One}
+put(4, "Four"):
+    evicting least recently used -> 2
+Cache: {3=Three, 1=One, 4=Four}
+get(3) then put(5, "Five"):
+    evicting least recently used -> 1
+Cache: {4=Four, 3=Three, 5=Five}
